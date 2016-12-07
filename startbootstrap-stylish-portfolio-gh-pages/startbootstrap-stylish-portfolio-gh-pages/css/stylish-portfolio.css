@@ -209,6 +209,13 @@ div.transbox {
     margin-bottom: 30px;
 }
 
+.services strong{
+    font-size: 20px;
+}
+
+.services p{
+    font-size: 20px;
+}
 /* Callout */
 
 .callout {
